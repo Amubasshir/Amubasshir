@@ -1,5 +1,3 @@
-![Atypical frontend web developer...](https://scontent.fdac5-2.fna.fbcdn.net/v/t39.30808-6/241479004_2937648149884577_9001115019136271186_n.jpg?_nc_cat=102&ccb=1-5&_nc_sid=e3f864&_nc_ohc=dn1IfzXaa24AX9Rz-xh&_nc_ht=scontent.fdac5-2.fna&oh=25e12f58446c99c79b4fdd5dce91be39&oe=614547C3)
-
 ### Hi👋, I'm Mubasshir Ahmed
 #### Atypical frontend web developer...
 
