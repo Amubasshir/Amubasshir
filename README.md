@@ -1,5 +1,5 @@
-### Hi👋, I'm Mubasshir Ahmed
-#### Atypical frontend web developer...
+                                                    # Hi👋, I'm Mubasshir Ahmed
+                                               #### Atypical frontend web developer...
 
 ![Profile views](https://gpvc.arturio.dev/Amubasshir)  
 
