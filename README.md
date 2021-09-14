@@ -1,5 +1,5 @@
-                                                    # Hi👋, I'm Mubasshir Ahmed
-                                               #### Atypical frontend web developer...
+<h1 align="center">Hi 👋, I'm Mubasshir Ahmed</h1>
+<h3 align="center">Atypical frontend developer...</h3>
 
 ![Profile views](https://gpvc.arturio.dev/Amubasshir)  
 
