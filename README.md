@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/lastmubasshir" target="blank"><img src="https://img.shields.io/twitter/follow/lastmubasshir?logo=twitter&style=for-the-badge" alt="lastmubasshir" /></a> </p>
 
-- 🌱 I’m currently learning Javascript 
+- 🌱 I’m currently learning NodeJS 
 - 💬 Ask me about web development 
 - 📫 How to reach me: lastmubasshir@gmail.com 
 
