@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mubasshir Ahmed</h1>
 <h3 align="center">Atypical frontend developer...</h3>
 
-!Profile views](https://gpvc.arturio.dev/Amubasshir)  
+![Profile views](https://gpvc.arturio.dev/Amubasshir)  
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=Amubasshir)
 
@@ -16,9 +16,9 @@
 </p>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Amubasshir)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Amubasshir)](https://github.com/anuraghazra/github-readme-stats) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Amubasshir&show_icons=true) 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Amubasshir&show_icons=true)  
+ 
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Amubasshir)  
 
