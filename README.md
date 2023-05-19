@@ -3,7 +3,7 @@
 
 ![Profile views](https://gpvc.arturio.dev/Amubasshir)  
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Amubasshir)]
+[![trophy](https://github-profile-trophy.vercel.app/?username=Amubasshir)
 
 <p align="left"> <a href="https://twitter.com/lastmubasshir" target="blank"><img src="https://img.shields.io/twitter/follow/lastmubasshir?logo=twitter&style=for-the-badge" alt="lastmubasshir" /></a> </p>
 
