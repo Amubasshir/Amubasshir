@@ -11,7 +11,6 @@
 <a href="https://twitter.com/lastmubasshir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lastmubasshir" height="30" width="40" /></a>
 <a href="https://stackoverflow.com//users/16774151/mubasshir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="users/16774151/mubasshir" height="30" width="40" /></a>
   <a href="https://dev.to/amubasshir" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="amubasshir" height="30" width="40" /></a>
-<a href="https://fb.com/mubasshir07/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mubasshir07/" height="30" width="40" /></a>
 </p>
 
 
