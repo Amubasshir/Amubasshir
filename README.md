@@ -3,7 +3,7 @@
 
 [![](https://visitcount.itsvg.in/api?id=Amubasshir&icon=0&color=0)](https://visitcount.itsvg.in)
 # 💫 About Me:
-🔭 I’m currently working on frontend Development<br>🌱 I’m currently learning typescript<br>📫 Reach me via mubasshir.dev@gmail.com
+📫 Reach me via mubasshir.dev@gmail.com
 
 
 ## 🌐 Socials:
