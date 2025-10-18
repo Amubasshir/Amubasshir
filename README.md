@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mubasshir Ahmed</h1>
-<h3 align="center">Atypical React Developer...</h3>
+<h3 align="center">Crafting Scalable Web Solutions</h3>
 
 [![](https://visitcount.itsvg.in/api?id=Amubasshir&icon=0&color=0)](https://visitcount.itsvg.in)
 # 💫 About Me:
